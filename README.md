@@ -26,16 +26,7 @@ Este es un programa en Java que permite realizar conversiones entre diferentes m
 ## **Configuración**
 
 1. Clona este repositorio o copia los archivos en tu proyecto local.
-2. Asegúrate de tener **Gson** como dependencia. Si usas Maven, incluye lo siguiente en tu `pom.xml`:
-
-   ```xml
-   <dependency>
-       <groupId>com.google.code.gson</groupId>
-       <artifactId>gson</artifactId>
-       <version>2.10</version>
-   </dependency>
-   ```
-
+2. Asegúrate de tener **Gson** como dependencia. 
 3. Reemplaza `YOUR_API_KEY` en la clase `ExchangeRateAPI` con tu clave de API personal obtenida desde [ExchangeRate-API](https://www.exchangerate-api.com/).
 
 ---
