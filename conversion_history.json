@@ -1,0 +1,20 @@
+[
+  {
+    "fromCurrency": "ARS",
+    "toCurrency": "USD",
+    "amount": 500.0,
+    "result": 0.49838
+  },
+  {
+    "fromCurrency": "BRL",
+    "toCurrency": "USD",
+    "amount": 6000.0,
+    "result": 1039.2
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "BRL",
+    "amount": 6000.0,
+    "result": 34592.399999999994
+  }
+]
