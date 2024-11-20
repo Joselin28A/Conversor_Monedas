@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 
 public class ExchangeRateAPI {
 
-    private static final String API_BASE_URL = "https://v6.exchangerate-api.com/v6/0764381a4c30558b9e419a46/pair";
+    private static final String API_BASE_URL = "https://v6.exchangerate-api.com/v6/YOUR_API/pair";
 
     /**
      * Obtiene la tasa de cambio entre dos monedas específicas.
